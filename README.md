@@ -1,7 +1,7 @@
 (c) Lab of Machine Learning and Complex Systems (2023).
 All rights reserved. 
 
-A software package for the manuscript "Learning nonequilibrium statistical mechanics and dynamical phase transitions" 
+A software package for the manuscript "Learning nonequilibrium statistical mechanics and dynamical phase transitions" [https://www.nature.com/articles/s41467-024-45172-8]
 
 DPT stands for dynamical phase transitions. It tracks the time evolution of nonequilibrium statistical mechanics by training the variational autoregressive neural network, which generates the time evolution of the joint probability distribution and the dynamical partition function. This approach is applicable to uncover dynamical phase transitions, such as for the spin-flip activity. 
 
